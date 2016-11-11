@@ -75,7 +75,6 @@ class WPSight_Agents {
 					'delete_others_listings'    => true,
 					'edit_private_listings'     => true,
 					'edit_published_listings'   => true,
-					'edit_listings'             => true,
 					'manage_listing_terms'      => true,
 					'edit_listing_terms'        => true,
 					'delete_listing_terms'      => true,
@@ -92,7 +91,6 @@ class WPSight_Agents {
 					'edit_listing'         => true,
 					'read_listing'         => true,
 					'delete_listing'       => true,
-					'edit_listings'        => true,
 					'delete_listings'      => true,
 					'edit_listings'        => true,
 					'assign_listing_terms' => true
